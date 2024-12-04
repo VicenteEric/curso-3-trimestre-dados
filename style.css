@@ -2,9 +2,9 @@
 /*paletas de cores: https://colorhunt.co/*/
 
 :root {
-    --bg-color: #940533;
+    --bg-color: hsl(341, 78%, 28%);
     --primary-color: #EEEEEE;
-    --secondary-color: #c0012a;
+    --secondary-color: #e05f7b;
     --font: "Nunito Sans", sans-serif;
 }
 
