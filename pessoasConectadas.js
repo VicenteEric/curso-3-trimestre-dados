@@ -1,4 +1,3 @@
-
 async function pessoasConectadas() {
     const url = 'https://raw.githubusercontent.com/guilhermeomrails/api/main/numero_usuarios.json'
     //contante que armazena uma reposta  await=espera ////fetch=faz a requisição
@@ -15,7 +14,7 @@ async function pessoasConectadas() {
         {
             x: nomeDasRedes,
             y: quantidadeUsuarios,
-            type: 'bar',
+            type: 'bar'
         }
     ]
     
